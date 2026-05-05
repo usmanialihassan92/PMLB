@@ -14,8 +14,8 @@
 
 | Version | File | Notes |
 |---------|------|-------|
-| v1.1.0 | [PMLB-v1.1.0.apk](https://github.com/usmanialihassan92/PMLB/blob/master/PMLB-v1.1.0.apk) | Android 8.0+ (API 26+) |
-| v1.0.0 | [PMLB-v1.0.0.apk]([../../releases/tag/v1.0.0](https://github.com/usmanialihassan92/PMLB/blob/master/PMLB-v1.0.0.apk)) | Android 8.0+ (API 26+) |
+| v1.1.0 | [PMLB-v1.1.0.apk](https://github.com/usmanialihassan92/PMLB/raw/master/PMLB-v1.1.0.apk) | Android 8.0+ (API 26+) |
+| v1.0.0 | [PMLB-v1.0.0.apk](https://github.com/usmanialihassan92/PMLB/raw/master/PMLB-v1.0.0.apk) | Android 8.0+ (API 26+) |
 
 > **Install tip:** Enable *Install from unknown sources* in Android Settings → Security before installing.
 
