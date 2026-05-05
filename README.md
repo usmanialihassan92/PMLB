@@ -56,7 +56,7 @@ If you use PMLB in your research or reference it in a publication, please cite:
   title     = {{PMLB}: Pocket Machine Learning Benchmarking Application},
   year      = {2026},
   url       = {https://github.com/usmanialihassan92/PMLB},
-  version   = {1.0.0},
+  version   = {1.1.0},
   note      = {Android application for on-device benchmarking of TFLite and ONNX models}
 }
 ```
