@@ -1,4 +1,4 @@
-# PMLB — Pocket Machine Learning Benchmarking Application
+# InferAnd — An Android Framework for Profiling Deep Learning Inference
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge"/>
 </p>
 
-**PMLB** is a free, open Android application for benchmarking TensorFlow Lite and ONNX models directly on-device. It measures inference latency, energy consumption, and memory usage, enabling reproducible comparisons of machine learning models across different Android hardware.
+**InferAnd** is a free, open Android application for benchmarking TensorFlow Lite and ONNX models directly on-device. It measures inference latency, energy consumption, and memory usage, enabling reproducible comparisons of machine learning models across different Android hardware.
 
 ---
 
@@ -48,22 +48,21 @@
 
 ## Citation
 
-If you use PMLB in your research or reference it in a publication, please cite:
+If you use InferAnd in your research or reference it in a publication, please cite:
 
 ```bibtex
 @software{hassan2025pmlb,
   author    = {Hassan, Ali},
-  title     = {{PMLB}: Pocket Machine Learning Benchmarking Application},
+  title     = {{InferAnd}: An Android Framework for Profiling Deep Learning Inference},
   year      = {2026},
   url       = {https://github.com/usmanialihassan92/PMLB},
   version   = {1.1.0},
-  note      = {Android application for on-device benchmarking of TFLite and ONNX models}
 }
 ```
 
 Or in plain text:
 
-> Hassan, A. (2025). *PMLB: Pocket Machine Learning Benchmarking Application* (Version 1.0.0) [Android application]. https://github.com/usmanialihassan92/PMLB
+> Hassan, A. (2026). *InferAnd: An Android Framework for Profiling Deep Learning Inference* (Version 1.1.0) [Android application]. https://github.com/usmanialihassan92/InferAnd
 
 ---
 
